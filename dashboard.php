@@ -104,7 +104,8 @@ $connect->close();
 		  </div>
 
 		  <div class="cardContainer">
-		    <p> INR Total Revenue</p>
+		    <!--<p> INR Total Revenue</p> -->
+			<p> HKD Total Revenue</p>
 		  </div>
 		</div> 
 
@@ -119,7 +120,8 @@ $connect->close();
 			  	<thead>
 			  		<tr>			  			
 			  			<th style="width:40%;">Name</th>
-			  			<th style="width:20%;">Orders in Rupees</th>
+			  			<!--<th style="width:20%;">Orders in Rupees</th>-->
+						<th style="width:20%;">Orders in HKD</th>
 			  		</tr>
 			  	</thead>
 			  	<tbody>
